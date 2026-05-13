@@ -27,8 +27,11 @@ Features
 
 Difficulty Levels
 Level	      Number Range	       Attempts
+
 Easy	       1 – 9	             10 Attempts
+
 Medium	     10 – 99	           15 Attempts
+
 Hard	       100 – 999	         20 Attempts
 
 Technologies Used
