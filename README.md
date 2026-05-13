@@ -19,6 +19,7 @@ Features
    .Too high
    .Too low
    .“Very close” hint
+   
 5.Score system
 
 6.Displays total attempts
