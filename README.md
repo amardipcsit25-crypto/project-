@@ -10,14 +10,20 @@ The player has to guess a randomly generated number within a limited number of a
 
 Features
 1.Random number generation using rand()
+
 2.Three difficulty levels
+
 3.Limited guessing attempts
+
 4.Hint system:
    .Too high
    .Too low
    .“Very close” hint
+
 5.Score system
+
 6.Displays total attempts
+
 7.Simple and beginner-friendly C project
 
 Difficulty Levels
