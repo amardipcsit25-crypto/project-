@@ -26,6 +26,7 @@ Features
 7.Simple and beginner-friendly C project
 
 Difficulty Levels
+
 Level	      Number Range	       Attempts
 
 Easy	       1 – 9	             10 Attempts
